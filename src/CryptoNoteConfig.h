@@ -112,6 +112,7 @@ const char     CRYPTONOTE_NAME[]                             = "hir"
 const uint32_t GENESIS_NONCE                                 = 70;
 const uint64_t GENESIS_TIMESTAMP                             = 1513040990;
 
+const uint8_t CURRENT_TRANSACTION_VERSION                    = 1;
 const uint8_t  TRANSACTION_VERSION_1                         =  1;
 const uint8_t  TRANSACTION_VERSION_2                         =  2;
 const char     GENESIS_COINBASE_TX_HEX[]                     = "";;
