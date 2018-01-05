@@ -108,14 +108,14 @@ const uint64_t ICO_BLOCK_REWARD	                             = (UINT64_C(5020146
 const uint64_t MAX_BLOCK_REWARD                              = (UINT64_C(2) * parameters::COIN);
 const uint64_t REWARD_INCREASE_INTERVAL                      = (UINT64_C(2640));
 
-const char     CRYPTONOTE_NAME[]                             = "hir"
+const char     CRYPTONOTE_NAME[]                             = "hir";
 const uint32_t GENESIS_NONCE                                 = 70;
 const uint64_t GENESIS_TIMESTAMP                             = 1513040990;
 
 const uint8_t CURRENT_TRANSACTION_VERSION                    = 1;
 const uint8_t  TRANSACTION_VERSION_1                         =  1;
 const uint8_t  TRANSACTION_VERSION_2                         =  2;
-const char     GENESIS_COINBASE_TX_HEX[]                     = "";;
+const char     GENESIS_COINBASE_TX_HEX[]                     = "";
 const uint8_t  BLOCK_MAJOR_VERSION_1                         =  1;
 const uint8_t  BLOCK_MAJOR_VERSION_2                         =  2;
 const uint8_t  BLOCK_MINOR_VERSION_0                         =  0;
